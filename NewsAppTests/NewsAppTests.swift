@@ -2,9 +2,6 @@
 //  NewsAppTests.swift
 //  NewsAppTests
 //
-//  Created by Gontse Ranoto on 2019/08/05.
-//  Copyright © 2019 Gontse Ranoto. All rights reserved.
-//
 
 import XCTest
 @testable import NewsApp
